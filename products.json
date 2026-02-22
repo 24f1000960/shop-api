@@ -193,6 +193,13 @@
     "home": {
       "count": 4,
       "inventoryValue": 101445.48
+    },
+    "electronics": {
+      "count": 6,
+      "inventoryValue": 58502.99
+    },
+    "all": {
+      "count": 23
     }
   }
 }
