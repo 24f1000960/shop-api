@@ -29,25 +29,10 @@
     {"id":"prod-6c2991ab-023","name":"Elite Item 23","category":"clothing","price":266.75,"stock":30,"rating":1.2}
   ],
   "aggregations": {
-    "electronics": {
-      "count": 6,
-      "inventoryValue": 40595.899999999994
-    },
-    "home": {
-      "count": 4,
-      "inventoryValue": 101445.48
-    },
-    "books": {
-      "count": 4,
-      "inventoryValue": 188280.98
-    },
-    "clothing": {
-      "count": 6,
-      "inventoryValue": 167466.87
-    },
-    "sports": {
-      "count": 3,
-      "inventoryValue": 37839.99
-    }
+    "electronics": { "count": 6, "inventoryValue": 40595.899999999994 },
+    "home": { "count": 4, "inventoryValue": 101445.48 },
+    "books": { "count": 4, "inventoryValue": 188280.98 },
+    "clothing": { "count": 6, "inventoryValue": 167466.87 },
+    "sports": { "count": 3, "inventoryValue": 37839.99 }
   }
 }
